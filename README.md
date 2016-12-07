@@ -1,2 +1,5 @@
-# woo-archive-page-title
+# Woocommerce Archive Page Title
 Changes the title tag of the product taxonomy archive to display the full taxonomy tree
+
+It's just a start....
+More to follow...

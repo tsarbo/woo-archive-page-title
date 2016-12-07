@@ -1,0 +1,10 @@
+{
+    "name": "tsarbo/woo-archive-page-title",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "source": {
+        "url": "git@github.com:tsarbo/woo-archive-page-title",
+        "type": "git",
+        "reference": "master"
+    }
+}
